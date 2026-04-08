@@ -1,4 +1,4 @@
-<img width="3365" alt="image" src="./documentation/image/Banner.svg"/>
+<img width="3365" alt="image" src="./documentation/image/banner.svg"/>
 
 ---
 
