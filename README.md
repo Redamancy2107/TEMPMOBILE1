@@ -106,6 +106,20 @@ Quy trình phát triển tuân thủ các nguyên tắc CI/CD và kiểm soát c
 
 ## 📁 Project Structure
 
+```
+📁URMYFOOD
+└── 📁.github/workflows
+└── 📁.husky
+└── 📁backend
+└── 📁documentation
+└── 📁frontend
+    └── 📁app-admin
+    └── 📁app-shop
+    └── 📁app-user
+├── .gitignore
+├── LICENSE
+└── README.md
+```
 
 ---
 
