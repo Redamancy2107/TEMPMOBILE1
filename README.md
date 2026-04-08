@@ -3,7 +3,7 @@
 ---
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-[![UIT](https://img.shields.io/badge/UIT--VNUHCM-ffffff?logo=https://raw.githubusercontent.com/Redamancy2107/TEMPMOBILE1/main/documentation/image/logo_uit.svg)](https://www.uit.edu.vn/)
+[![UIT](https://img.shields.io/badge/UIT--VNUHCM-ffffff?logo=https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Logo_UIT_updated.svg/960px-Logo_UIT_updated.svg.png)](https://www.uit.edu.vn/)
 [![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)](#)
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
