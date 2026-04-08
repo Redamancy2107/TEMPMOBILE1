@@ -3,7 +3,7 @@
 ---
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-[![UIT](https://img.shields.io/badge/UIT--VNUHCM-ffffff?logo=https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Logo_UIT_updated.svg/960px-Logo_UIT_updated.svg.png)](https://www.uit.edu.vn/)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?logo=android-studio&logoColor=white)
 [![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)](#)
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
@@ -20,15 +20,13 @@
   <p><i>University of Information Technology - VNUHCM</i></p>
 </div>
 
-<div align="center">
-
----
+<center>
 
 | [**📖 Introduction**](#-introduction) | [**✨ Key Features**](#-key-features) | [**🛠 Tech Stack**](#-tech-stack) | [**📁 Project Structure**](#-project-structure) |
 |---|---|---|---|
 | [**🚀 Installation Guide**](#-installation-guide) | [**📸 Screenshots & Demo**](#-screenshots--demo) | [**👥 Team Members**](#-team-members) | [**📜 License**](#-license) |
 
-</div>
+</center>
 
 
 ---
