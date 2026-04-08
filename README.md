@@ -20,13 +20,15 @@
   <p><i>University of Information Technology - VNUHCM</i></p>
 </div>
 
-<center>
+<div align="center">
+
+---
 
 | [**📖 Introduction**](#-introduction) | [**✨ Key Features**](#-key-features) | [**🛠 Tech Stack**](#-tech-stack) | [**📁 Project Structure**](#-project-structure) |
 |---|---|---|---|
 | [**🚀 Installation Guide**](#-installation-guide) | [**📸 Screenshots & Demo**](#-screenshots--demo) | [**👥 Team Members**](#-team-members) | [**📜 License**](#-license) |
 
-</center>
+</div>
 
 
 ---
